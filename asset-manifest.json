@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7af0f9b5.css",
+    "main.js": "/static/js/main.09d21a04.js",
+    "static/js/453.2cecc6e0.chunk.js": "/static/js/453.2cecc6e0.chunk.js",
+    "static/media/ground.jpg": "/static/media/ground.837e3ac2333112fe3ed4.jpg",
+    "static/media/main-picture.png": "/static/media/main-picture.4831fe00176131e35a64.png",
+    "static/media/cart1.jpeg": "/static/media/cart1.0d53ecdd790d3e0f6260.jpeg",
+    "static/media/cart2.jpeg": "/static/media/cart2.bac70e0a7d820899214a.jpeg",
+    "static/media/cart4.jpeg": "/static/media/cart4.19bc2c7d6c88a31cabd2.jpeg",
+    "static/media/client2.jpeg": "/static/media/client2.0cff33529c4b6b78e979.jpeg",
+    "static/media/cart3.jpeg": "/static/media/cart3.cd8423f7a49e812d67a4.jpeg",
+    "static/media/BigCart1.jpeg": "/static/media/BigCart1.78ec7291972b0dced8af.jpeg",
+    "static/media/BigCart3.jpeg": "/static/media/BigCart3.522f4d8b6bb29cc13e76.jpeg",
+    "static/media/BigCart4.jpeg": "/static/media/BigCart4.18d6ed31adbe64a19390.jpeg",
+    "static/media/BigCart2.jpeg": "/static/media/BigCart2.83c073d8985133255fd7.jpeg",
+    "static/media/client5.jpeg": "/static/media/client5.d1ec5c43e063d0f46675.jpeg",
+    "static/media/client4.jpeg": "/static/media/client4.037177870a0b9b88dfbf.jpeg",
+    "static/media/client3.jpeg": "/static/media/client3.c8eabbd55fe6f7c014e4.jpeg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/client1.jpeg": "/static/media/client1.4618b7799597031944cd.jpeg",
+    "static/media/BurgerKing.png": "/static/media/BurgerKing.8b6ad9a1d10147061d70.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fast-food-logo.svg": "/static/media/fast-food-logo.9e3749428909db326482aaca60768246.svg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "main.7af0f9b5.css.map": "/static/css/main.7af0f9b5.css.map",
+    "main.09d21a04.js.map": "/static/js/main.09d21a04.js.map",
+    "453.2cecc6e0.chunk.js.map": "/static/js/453.2cecc6e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af0f9b5.css",
+    "static/js/main.09d21a04.js"
+  ]
+}
